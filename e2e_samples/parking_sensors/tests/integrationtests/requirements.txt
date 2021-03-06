@@ -14,3 +14,4 @@ azure-mgmt-resource
 azure-mgmt-datafactory
 azure-storage-blob
 pyodbc
+msrestazure
