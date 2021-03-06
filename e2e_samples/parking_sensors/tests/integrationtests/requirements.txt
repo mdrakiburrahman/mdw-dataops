@@ -8,6 +8,8 @@ twine
 pytest
 pytest-runner
 pytest-adf-azure-identity
+azure-identity
+msrestazure
 tox
 autopep8
 azure-mgmt-resource
