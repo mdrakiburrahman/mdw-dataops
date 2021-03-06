@@ -41,7 +41,7 @@
 		},
 		"P_Ingest_MelbParkingData_properties_0_typeProperties_0_egg": {
 			"type": "string",
-			"defaultValue": "dbfs:/mnt/datalake/sys/databricks/libs/ddo_transform-localdev-py2.py3-none-any.whl"
+			"defaultValue": "dbfs:/mnt/datalake/sys/databricks/libs/dev/ddo_transform-1.1.21-py2.py3-none-any.whl"
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_notebookPath": {
 			"type": "string",
@@ -49,7 +49,7 @@
 		},
 		"P_Ingest_MelbParkingData_properties_4_typeProperties_0_egg": {
 			"type": "string",
-			"defaultValue": "dbfs:/mnt/datalake/sys/databricks/libs/ddo_transform-localdev-py2.py3-none-any.whl"
+			"defaultValue": "dbfs:/mnt/datalake/sys/databricks/libs/dev/ddo_transform-1.1.21-py2.py3-none-any.whl"
 		}
 	},
 	"variables": {
