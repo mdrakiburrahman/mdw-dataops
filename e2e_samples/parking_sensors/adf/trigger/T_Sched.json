@@ -16,9 +16,9 @@
 			"recurrence": {
 				"frequency": "Minute",
 				"interval": 10,
-				"startTime": "2019-02-01T05:28:00Z",
-				"endTime": "2021-03-08T00:25:00Z",
-				"timeZone": "UTC"
+				"startTime": "2019-02-01T05:28:00",
+				"endTime": "2021-03-08T02:00:00",
+				"timeZone": "Eastern Standard Time"
 			}
 		}
 	}
