@@ -7,7 +7,7 @@ Sphinx
 twine
 pytest
 pytest-runner
-pytest-adf-azure-identity
+pytest-adf
 azure-identity
 msrestazure
 tox
