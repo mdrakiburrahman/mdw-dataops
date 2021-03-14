@@ -291,6 +291,7 @@
 					},
 					{
 						"name": "Set infilefolder",
+						"description": "Hello from Raki's desktop!",
 						"type": "SetVariable",
 						"dependsOn": [],
 						"userProperties": [],
