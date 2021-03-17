@@ -291,7 +291,7 @@
 					},
 					{
 						"name": "Set infilefolder",
-						"description": "",
+						"description": "This is a new change",
 						"type": "SetVariable",
 						"dependsOn": [],
 						"userProperties": [],
