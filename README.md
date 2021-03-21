@@ -65,17 +65,17 @@ The solution pulls near realtime [Melbourne Parking Sensor data](https://www.mel
 
 The following shows the overall architecture of the solution.
 
-![Architecture](docs/images/new/architecture.PNG?raw=true "Architecture")
+![Architecture](docs/images/New/architecture.PNG?raw=true "Architecture")
 
 Sample PowerBI report
 
-![PowerBI report](docs/images/new/PBI_parking_sensors.PNG?raw=true "PowerBI Report")
+![PowerBI report](docs/images/New/PBI_parking_sensors.PNG?raw=true "PowerBI Report")
 
 ### Continuous Integration and Continuous Delivery (CI/CD)
 
 The following shows the overall CI/CD process end to end.
 
-![CI/CD](docs/images/new/CI_CD_process.PNG?raw=true "CI/CD")
+![CI/CD](docs/images/New/CI_CD_process.PNG?raw=true "CI/CD")
 
 See [here](#build-and-release-pipeline) for details.
 
