@@ -59,7 +59,7 @@
 			},
 			{
 				"name": "Set infilefolder",
-				"description": "",
+				"description": "Hello from Bell!",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"userProperties": [],
